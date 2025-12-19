@@ -177,4 +177,3 @@ for i, account in enumerate(ACCOUNTS):
     print(f"✅ {account['handle']} posted! ID: {response.data['id']}")
 
 print("🎉 All 3 accounts posted!")
-EOF
